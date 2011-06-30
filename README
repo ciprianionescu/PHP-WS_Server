@@ -4,3 +4,9 @@ This class has support for hook-based Message Handlers which makes it easy to ex
 The included code also contains a demo.
 
 This code is currently undocummented since it's work in progress but check back later for updates.
+
+In order to test this, you need to start the server from command line using:
+
+php ./server_test.php
+
+while in the current folder.
