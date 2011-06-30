@@ -26,7 +26,7 @@ var drawDataSent = 0;
 	 * Init WebSockets
 	 */
 	function initWebSockets(){
-		ws = new WebSocket("ws://192.168.0.159:8080");
+		ws = new WebSocket("ws://localhost:8080");
 
 		// Set event handlers.
 		ws.onopen = wsOnOpen;
