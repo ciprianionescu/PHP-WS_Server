@@ -1,0 +1,6 @@
+PHP based class for instantiating WebSocket servers.
+This class has support for hook-based Message Handlers which makes it easy to extend.
+
+The included code also contains a demo.
+
+This code is currently undocummented since it's work in progress but check back later for updates.
