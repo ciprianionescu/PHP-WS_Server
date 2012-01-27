@@ -39,5 +39,8 @@
 			</div>
 			<div id=app-footer>
 			</div>
+			<<div id="ciprian">
+				this is a quickly added div :D
+			</div>>
 	</body>
 </html>
