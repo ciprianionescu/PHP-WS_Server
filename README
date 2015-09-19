@@ -1,3 +1,11 @@
+# Warning
+
+This has been written when the first draft of Websockets protocol came out. It is now deprecated.
+
+For an up-to-date implementation in PHP, see [Ratchet](http://socketo.me/)
+
+## PHP Websocket server
+
 PHP based class for instantiating WebSocket servers.
 This class has support for hook-based Message Handlers which makes it easy to extend.
 
